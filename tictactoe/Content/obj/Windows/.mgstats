@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Repositories/tictactoe/tictactoe/Content/Board.png","D:/Repositories/tictactoe/tictactoe/Content/bin/Windows/Board.xnb","TextureProcessor","Texture2DContent",2099,254101,0.1725033
+"D:/Repositories/tictactoe/tictactoe/Content/GameFont.spritefont","D:/Repositories/tictactoe/tictactoe/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136209,0.2645003
+"D:/Repositories/tictactoe/tictactoe/Content/O.png","D:/Repositories/tictactoe/tictactoe/Content/bin/Windows/O.xnb","TextureProcessor","Texture2DContent",573,16469,0.0169986
+"D:/Repositories/tictactoe/tictactoe/Content/X.png","D:/Repositories/tictactoe/tictactoe/Content/bin/Windows/X.xnb","TextureProcessor","Texture2DContent",701,16469,0.0164986
